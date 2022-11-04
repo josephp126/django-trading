@@ -1,0 +1,14 @@
+
+.vscode/
+
+output.txt
+
+#*.log
+
+# Ignore Pycache files and dics
+__pycache__/
+*.pyc
+
+*.yml
+
+*.ipynb

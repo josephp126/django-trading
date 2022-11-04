@@ -1,0 +1,6 @@
+[submodule "gtm-notify"]
+	path = gtm-notify
+	url = https://github.com/abdullahbodur/gtm-notify.git
+[submodule "gtm_notify"]
+	path = gtm_notify
+	url = https://github.com/abdullahbodur/gtm_notify.git

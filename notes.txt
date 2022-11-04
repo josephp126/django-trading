@@ -1,0 +1,6 @@
+# RSI
+
+* pick up 7-21-42 length of values (short-time / mid-time / long-time)
+
+* if any sell action along the candle. There is no way to other buy action at the same candle.
+   
